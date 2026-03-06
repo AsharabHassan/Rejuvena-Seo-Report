@@ -1,4 +1,4 @@
-import { LayoutTemplate, Youtube, Globe, AlertOctagon, CheckCircle2, TrendingUp, Target, BookOpen, Clock } from 'lucide-react';
+import { LayoutTemplate, Youtube, Globe, TrendingUp, Target, Clock } from 'lucide-react';
 
 export const geoScores = {
     overall: {
